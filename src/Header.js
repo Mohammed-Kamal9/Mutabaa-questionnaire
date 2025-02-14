@@ -14,7 +14,7 @@ function Header() {
         <i className="fas fa-phone"></i>
       </div>
       <nav className="nav-menu">
-        <h1>نظام حجز المواعيد</h1>
+        <h1>نظام الاستبيان</h1>
       </nav>
       <div className="logo">
         <a href="https://mutabaacentre.com/index.html">
